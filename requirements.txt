@@ -1,0 +1,6 @@
+# Dependências opcionais para usar APIs de LLM
+openai>=1.0.0
+anthropic>=0.18.0
+
+# Dependências para gerar imagens a partir de HTML
+playwright>=1.40.0
